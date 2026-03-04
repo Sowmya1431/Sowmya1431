@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sowmya1431/Sowmya1431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Sowmya%20Mahanthi&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Web%20Designer%20%7C%20Full%20Stack%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=16&descColor=ffffff&animation=fadeIn" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sowmya+Mahanthi+👋;Creative+Web+Designer;Full+Stack+Developer;Machine+Learning+Enthusiast;I+build.+I+design.+I+solve+problems+🚀)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sowmya1431&color=00bfff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+# 🧬 About Me
+
+```yaml
+name        : Sowmya Mahanthi
+education   : B.Tech Computer Science
+role        : Web Designer & Full Stack Developer
+focus       : Creative UI · Scalable Web Apps · Machine Learning
+building    : Real-world Web & AI Applications
+mindset     : "Learn → Build → Improve → Repeat"
